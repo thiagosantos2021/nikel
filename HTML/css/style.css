@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url('../imagens/background3.jpg') no-repeat left top;
+    background-size: cover;
+}
+
+header {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    padding: 0px 20px 0px 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+#titulo-1 {
+    color: rgb(0, 255, 170);
+}
+
+.paragrafo {
+    color: rgb(4, 78, 54);
+    font-size: 20px;
+}
+
+.table, td, tr, th {
+    width: 500px;
+    border: 1px solid rgb(0, 47, 255);
+}
+
+.fundo-branco {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
